@@ -1,0 +1,3 @@
+X-translation: 0.245
+Y-translation: 0.011
+Z-rotation (degree): -10.297
